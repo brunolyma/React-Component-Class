@@ -1,0 +1,1 @@
+Código da aula de React, mini projeto onde definimos uma lista dinâmica de planetas e seus satélites, utilizando Fetch Api e setState com método componentDidMount.
