@@ -6,3 +6,11 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.form {
+    margin-bottom: 1rem;
+}
+
+button {
+    width: 100px;
+}
